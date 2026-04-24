@@ -1,4 +1,4 @@
-# OSCARPIE
+# PIFL-OSCAR
 Released under article --- in Japan for "information analysis" and "research-only".
 A very large dataset of Potential Idiomatic Expressions from creative commons OSCAR via CommonCrawl. CC0 license @ https://huggingface.co/datasets/oscar-corpus/oscar</br>
 Phrases were matched from a combined vocabulary list from EPIE, MAGPIE, LIdioms, and FLUTE. In addition to previous and next sentences, </br>
