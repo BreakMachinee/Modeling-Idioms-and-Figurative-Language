@@ -1,14 +1,12 @@
 # PIFL-OSCAR
-Released under article --- in Japan for "information analysis" and "research-only".
-A very large dataset of Potential Idiomatic Expressions from creative commons OSCAR via CommonCrawl. CC0 license @ https://huggingface.co/datasets/oscar-corpus/oscar</br>
+Research conducted in Japan for "information analysis" and "research-only".
+A very large dataset of Potential Idiomatic Expressions from creative commons OSCAR via CommonCrawl. CC0 license @ https://huggingface.co/datasets/o...</br>
 Phrases were matched from a combined vocabulary list from EPIE, MAGPIE, LIdioms, and FLUTE. In addition to previous and next sentences, </br>
 part of speech, and BIO-lables, BERT output embeddings were acquired and post-processed to provide extra pre-calculate semantic relationships.</br>
 This repo is under construction. The data format may also change for clarity. </br> 
 The complete collection of files contains 7,713,773 examples of 3209 unique possible idioms. </br>
 Without "listen" and "catch", the total remains 6,850,525 with 3207 unique possible idioms.</br>
 
-5 full files will be added to this folder in GoogleDrive. </br>
-https://drive.google.com/drive/folders/1Hf4Q0lIAU6a3HlJ4OwDMSLFqb3wLpkwn</br>
 
 Full Dataset Statistics: </br>
 
